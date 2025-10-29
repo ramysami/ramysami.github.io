@@ -4,13 +4,34 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Tip\n\n\n\nThis website is a Work-in-progress\n\n\n\nTechnologies used:\n\nR\nQuarto\nMarkdown\nHTML"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Ramy Samy",
+    "title": "Welcome to my website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "My name is Ramy Samy, I work as a teaching assistant at TU, Egypt"
+  },
+  {
+    "objectID": "interests.html",
+    "href": "interests.html",
+    "title": "Interests",
+    "section": "",
+    "text": "Programming (mainly in R)\nStatistics\nAutomation\nDesigning"
+  },
+  {
+    "objectID": "about.html#it-will-be-fully-open-sourced-after-the-work-is-done.",
+    "href": "about.html#it-will-be-fully-open-sourced-after-the-work-is-done.",
+    "title": "About",
+    "section": "",
+    "text": "R\nQuarto\nMarkdown\nHTML"
+  },
+  {
+    "objectID": "interests.html#things-i-am-passionate-about",
+    "href": "interests.html#things-i-am-passionate-about",
+    "title": "Interests",
+    "section": "",
+    "text": "Programming (mainly in R)\nStatistics\nAutomation\nDesigning"
   }
 ]
